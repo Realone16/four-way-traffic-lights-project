@@ -65,3 +65,5 @@ The system operates in a loop, cycling through each direction and controlling th
 ### **Transition Back to Junction-1:**
 - **Yellow Light ON**: Junction-4’s light turns yellow, signaling cars to prepare to stop.
 - **Countdown Continues**: The 7-segment display continues counting down to 0.
+
+![Final Project](image/final_project.jpg)
